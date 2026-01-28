@@ -1,0 +1,504 @@
+Ticker,Sector,Industry,Market_Cap,PE_Ratio,y25td_Return
+MMM,Industrials,Industrial Conglomerates,83960119296,26.297836,24.158804178141278
+AOS,Industrials,Building Products,9898754048,19.04043,7.075542231109469
+ABT,Health Care,Health Care Equipment,188439494656,29.104837,-2.256370067916259
+ABBV,Health Care,Biotechnology,395770429440,169.64392,30.196464750550334
+ACN,Information Technology,IT Consulting & Other Services,171034296320,22.774567,-19.804590211532435
+ADBE,Information Technology,Application Software,124500017152,17.820251,-32.557820084413976
+AMD,Information Technology,Semiconductors,410315325440,131.26562,108.92813107658077
+AES,Utilities,Independent Power Producers & Energy Traders,10624844800,9.815789,21.351177601966842
+AFL,Financials,Life & Health Insurance,57965035520,14.241787,8.20710133946591
+A,Health Care,Life Sciences Tools & Services,38541881344,29.748358,2.7088277343677047
+APD,Materials,Industrial Gases,57677975552,0.0,-6.093225006580562
+ABNB,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",80949796864,31.480953,0.5628274393144547
+AKAM,Information Technology,Internet Services & Infrastructure,14855524352,30.281525,8.216311169283491
+ALB,Materials,Specialty Chemicals,22854506496,0.0,132.55800778806847
+ARE,Real Estate,Office REITs,9925721088,0.0,-36.524683072209854
+ALGN,Health Care,Health Care Supplies,12108122112,32.372093,-19.881054781971457
+ALLE,Industrials,Building Products,14357872640,22.583221,30.79736346034051
+LNT,Utilities,Electric Utilities,17271439360,21.128931,18.58891928924437
+ALL,Financials,Property & Casualty Insurance,51322933248,6.317548,3.460814899651225
+GOOGL,Communication Services,Interactive Media & Services,4052110278656,32.993095,77.30045310334673
+GOOG,Communication Services,Interactive Media & Services,4044064292864,33.102768,76.41723210239235
+MO,Consumer Staples,Tobacco,106874658816,12.141222,29.84148340787317
+AMZN,Consumer Discretionary,Broadline Retail,2615682007040,34.6082,11.107070801695471
+AMCR,Materials,Paper & Plastic Packaging Products & Materials,20645971968,29.615894,-1.7712476357347782
+AEE,Utilities,Multi-Utilities,28120651776,19.992308,20.24854272082278
+AEP,Utilities,Electric Utilities,63926771712,17.486092,34.42693325467253
+AXP,Financials,Consumer Finance,250134872064,24.156588,22.014973342246357
+AIG,Financials,Multi-line Insurance,40924266496,13.285972,3.385060268957571
+AMT,Real Estate,Telecom Tower REITs,84318003200,28.7193,2.9606176380005462
+AWK,Utilities,Water Utilities,25476474880,22.940245,7.975792327437848
+AMP,Financials,Asset Management & Custody Banks,46978351104,13.716762,-4.763844118396672
+AME,Industrials,Electrical Components & Equipment,50939203584,34.8436,24.513400810947683
+AMGN,Health Care,Biotechnology,189179019264,27.17092,39.90883120525935
+APH,Information Technology,Electronic Components,203499241472,55.602005,142.76118747852652
+ADI,Information Technology,Semiconductors,148771602432,66.62939,46.12753056254815
+AON,Financials,Insurance Brokers,71318495232,26.46,-6.2630917306577105
+APA,Energy,Oil & Gas Exploration & Production,9241624576,6.179426,17.42746670266917
+APO,Financials,Asset Management & Custody Banks,76453265408,19.201166,-19.466048945046907
+AAPL,Information Technology,"Technology Hardware, Storage & Peripherals",3816288419840,34.620644,6.392481439124843
+AMAT,Information Technology,Semiconductor Materials & Equipment,265050898432,38.463585,105.06529422795903
+APP,Information Technology,Application Software,183859118080,64.09906,59.03797750013907
+APTV,Consumer Discretionary,Automotive Parts & Equipment,16987443200,59.098484,29.36982275828174
+ACGL,Financials,Property & Casualty Insurance,34881167360,8.759137,2.276211308352701
+ADM,Consumer Staples,Agricultural Products & Services,32789274624,27.735773,41.16353360790348
+ARES,Financials,Asset Management & Custody Banks,48940564480,62.764706,-14.160420352090911
+ANET,Information Technology,Communications Equipment,184724537344,55.775665,31.21925148945176
+AJG,Financials,Insurance Brokers,62231556096,38.7728,-11.39525531469272
+AIZ,Financials,Multi-line Insurance,11961356288,14.454268,13.85067192912334
+T,Communication Services,Integrated Telecommunication Services,164458872832,7.491857,6.491663647881077
+ATO,Utilities,Gas Utilities,27340263424,22.688591,24.98065079226826
+ADSK,Information Technology,Application Software,57103167488,52.05631,-8.601530872880536
+ADP,Industrials,Human Resource & Employment Services,103099326464,25.124382,-10.184332596265726
+AZO,Consumer Discretionary,Automotive Retail,63203954688,26.52513,16.922768930288463
+AVB,Real Estate,Multi-Family Residential REITs,25063684096,21.467073,-15.983079656602936
+AVY,Materials,Paper & Plastic Packaging Products & Materials,14449600512,21.243181,4.160263615681419
+AXON,Industrials,Aerospace & Defense,48474206208,192.49841,2.3017956199659224
+BKR,Energy,Oil & Gas Equipment & Services,55752724480,21.73077,38.85422643221696
+BALL,Materials,"Metal, Glass & Plastic Containers",15515207680,22.182878,6.345493671107659
+BAC,Financials,Diversified Banks,380971188224,13.692913,20.51997172955548
+BAX,Health Care,Health Care Equipment,10060071936,0.0,-31.90696308833957
+BDX,Health Care,Health Care Equipment,58054131712,34.948452,-8.251841877369326
+BRK-B,Financials,Multi-Sector Holdings,1024022151168,15.174872,5.225007094947822
+BBY,Consumer Discretionary,Computer & Electronics Retail,13812057088,21.69637,-19.607238888546792
+TECH,Health Care,Life Sciences Tools & Services,10631101440,139.2449,-4.003990100103509
+BIIB,Health Care,Biotechnology,25543798784,15.872378,16.079996744791668
+BLK,Financials,Asset Management & Custody Banks,171703959552,31.35099,11.006077537208938
+BX,Financials,Asset Management & Custody Banks,182107799552,42.769455,-11.946201908517715
+XYZ,Financials,Transaction & Payment Processing Services,39373029376,12.9959755,-25.544672809347986
+BK,Financials,Asset Management & Custody Banks,82893889536,16.041836,57.65500892319315
+BA,Industrials,Aerospace & Defense,191507906560,99.012146,42.29359661751514
+BKNG,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",167021428736,33.5574,5.409056211889882
+BSX,Health Care,Health Care Equipment,138825482240,50.058823,4.732606273124309
+BMY,Health Care,Pharmaceuticals,113106444288,18.707071,3.910839438732311
+AVGO,Information Technology,Semiconductors,1577848537088,69.913864,44.75266330658395
+BR,Industrials,Data Processing & Outsourced Services,24094902272,26.39642,-7.55805066084187
+BRO,Financials,Insurance Brokers,25306109952,23.455696,-25.801724276853644
+BF-B,Consumer Staples,Distillers & Vintners,12400116736,15.654971,-25.798648966857318
+BLDR,Industrials,Building Products,12969996288,22.256166,-17.389770076759298
+BG,Consumer Staples,Agricultural Products & Services,22458884096,13.065242,54.969688610338196
+BXP,Real Estate,Office REITs,11537192960,0.0,-7.111879747352609
+CHRW,Industrials,Air Freight & Logistics,21314899968,36.52328,79.40206341821508
+CDNS,Information Technology,Application Software,86752632832,82.05412,6.957599677579525
+CPT,Real Estate,Multi-Family Residential REITs,11638398976,44.097164,-1.3628386110062074
+CPB,Consumer Staples,Packaged Foods & Meats,8159934464,14.108248,-31.577673259159443
+COF,Financials,Consumer Finance,138024124416,64.42433,23.03673958006992
+CAH,Health Care,Health Care Distributors,50854842368,32.23494,83.63598684480965
+CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",37656805376,14.2029705,14.714115439815448
+CARR,Industrials,Building Products,48567873536,35.66875,-15.27699312500708
+CVNA,Consumer Discretionary,Automotive Retail,103571341312,108.57272,139.38665417172973
+CAT,Industrials,Construction Machinery & Heavy Transportation Equipment,299315855360,32.781425,80.69200964539893
+CBOE,Financials,Financial Exchanges & Data,28048916480,28.821507,37.24381834154263
+CBRE,Real Estate,Real Estate Services,50409275392,41.824688,30.40031358633715
+CDW,Information Technology,Technology Distributors,16435017728,15.853351,-25.136237014418505
+COR,Health Care,Health Care Distributors,69278523392,44.629074,59.69039483839963
+CNC,Health Care,Managed Health Care,20412741632,0.0,-31.366716358810525
+CNP,Utilities,Multi-Utilities,26003744768,25.20886,29.532189279933146
+CF,Materials,Fertilizers & Agricultural Chemicals,14859399168,11.093106,9.462018200968036
+CRL,Health Care,Life Sciences Tools & Services,10804272128,0.0,20.198203850705482
+SCHW,Financials,Investment Banking & Brokerage,188274556928,22.305376,42.18621486549466
+CHTR,Communication Services,Cable & Satellite,24994787328,5.073191,-47.61986480717494
+CVX,Energy,Integrated Oil & Gas,340605730816,23.74298,20.568893379368976
+CMG,Consumer Discretionary,Restaurants,53166092288,35.088497,-33.795288144998494
+CB,Financials,Property & Casualty Insurance,120193163264,12.592731,11.346398893137623
+CHD,Consumer Staples,Household Products,22492391424,29.126183,-9.957946469898516
+CI,Health Care,Health Care Services,72148008960,11.961471,0.41950058190217854
+CINF,Financials,Property & Casualty Insurance,24685580288,11.754281,13.349063730569325
+CTAS,Industrials,Diversified Support Services,76840935424,41.298058,5.867840113032583
+CSCO,Information Technology,Communications Equipment,310872113152,30.37838,37.2942133444808
+C,Financials,Diversified Banks,205389873152,16.422031,68.6797917511705
+CFG,Financials,Regional Banks,27238012928,16.430052,51.037583394595664
+CLX,Consumer Staples,Household Products,13806958592,17.769232,-27.430785757728458
+CME,Financials,Financial Exchanges & Data,102274097152,27.539207,24.57018410830441
+CMS,Utilities,Multi-Utilities,21923196928,20.760807,11.597600700993176
+KO,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,316534751232,24.354305,22.444970645379957
+CTSH,Information Technology,IT Consulting & Other Services,41342717952,19.594908,12.575347466613445
+COIN,Financials,Financial Exchanges & Data,56851910656,18.222126,-18.03195488699502
+CL,Consumer Staples,Household Products,69313019904,24.02241,-2.405884922356542
+CMCSA,Communication Services,Cable & Satellite,113111425024,4.767442,-14.077019817874003
+FIX,Industrials,Construction & Engineering,40939892736,49.252125,171.7594683472633
+CAG,Consumer Staples,Packaged Foods & Meats,8586732544,0.0,-29.288714026523543
+COP,Energy,Oil & Gas Exploration & Production,124731875328,14.105933,3.242239674424199
+ED,Utilities,Multi-Utilities,38024564736,18.417833,22.414520202591067
+STZ,Consumer Staples,Distillers & Vintners,28072636416,25.313972,-25.711830924905165
+CEG,Utilities,Electric Utilities,104614887424,33.114677,19.694055630021047
+COO,Health Care,Health Care Supplies,16043879424,43.15508,-10.98610888103228
+CPRT,Industrials,Diversified Support Services,39078871040,24.76687,-28.320314008107587
+GLW,Information Technology,Electronic Components,94086725632,70.34615,139.40405639905288
+CPAY,Financials,Transaction & Payment Processing Services,22452549632,21.600542,-6.463095841518666
+CTVA,Materials,Fertilizers & Agricultural Chemicals,49574301696,29.554655,30.89982190548815
+CSGP,Real Estate,Real Estate Services,28065546240,1103.6667,-6.508542271885634
+COST,Consumer Staples,Consumer Staples Merchandise Retail,430763278336,52.081593,7.2029456980323685
+CTRA,Energy,Oil & Gas Exploration & Production,21001611264,12.740741,8.978954541465143
+CRH,Materials,Construction Materials,82679349248,24.686626,34.45184221007152
+CRWD,Information Technology,Systems Software,120165236736,0.0,37.23153356586579
+CCI,Real Estate,Telecom Tower REITs,37777805312,0.0,2.195480190850048
+CSX,Industrials,Rail Transportation,70227312640,24.461039,19.00960986519145
+CMI,Industrials,Construction Machinery & Heavy Transportation Equipment,79540625408,29.856478,69.06679703554074
+CVS,Health Care,Health Care Services,91399135232,189.4737,71.18201443037879
+DHR,Health Care,Life Sciences Tools & Services,168809168896,48.50823,3.229172178864057
+DRI,Consumer Discretionary,Restaurants,22902177792,20.6178,9.580802016335168
+DDOG,Information Technology,Application Software,48466206720,460.7,-3.77358350253311
+DVA,Health Care,Health Care Services,7551115264,10.898866,-29.50874686462556
+DAY,Industrials,Human Resource & Employment Services,11095224320,0.0,-2.8855548062834835
+DECK,Consumer Discretionary,Footwear,14858071040,14.882616,-51.03157966667445
+DE,Industrials,Agricultural & Farm Machinery,140739149824,28.094698,25.85319101135398
+DELL,Information Technology,"Technology Hardware, Storage & Peripherals",76845154304,15.328877,0.623301794863314
+DAL,Industrials,Passenger Airlines,43186954240,8.634465,13.313403619320066
+DVN,Energy,Oil & Gas Exploration & Production,25042860032,9.304246,21.405408476723014
+DXCM,Health Care,Health Care Equipment,28890077184,40.927776,-6.152868574591959
+FANG,Energy,Oil & Gas Exploration & Production,46063030272,11.174157,-1.8841416548452858
+DLR,Real Estate,Data Center REITs,57057796096,42.16021,-4.977756600217133
+DG,Consumer Staples,Consumer Staples Merchandise Retail,32502753280,25.502592,101.10822010615436
+DLTR,Consumer Staples,Consumer Staples Merchandise Retail,24851441664,23.075756,59.330449055758926
+D,Utilities,Multi-Utilities,52199718912,19.977125,17.729086782543444
+DPZ,Consumer Discretionary,Restaurants,14050439168,24.217085,-3.3240266991997283
+DASH,Consumer Discretionary,Specialized Consumer Services,89371852800,105.25888,21.511871096892822
+DOV,Industrials,Industrial Machinery & Supplies & Components,28426375168,26.951885,12.899023256150292
+DOW,Materials,Commodity Chemicals,19766439936,0.0,-24.427577259019767
+DHI,Consumer Discretionary,Homebuilding,43254480896,13.508182,9.239027096747272
+DTE,Utilities,Multi-Utilities,28386111488,20.491753,16.70410247858081
+DUK,Utilities,Electric Utilities,93544873984,18.943308,15.600698854576791
+DD,Materials,Specialty Chemicals,18690490368,25.786127,44.39954399145771
+ETN,Industrials,Electrical Components & Equipment,132825268224,34.119,3.817578588316333
+EBAY,Consumer Discretionary,Broadline Retail,43506397184,21.108646,55.21956171002006
+ECL,Materials,Specialty Chemicals,80574996480,40.817528,24.28539204948526
+EIX,Utilities,Electric Utilities,24102154240,8.208388,-15.914284608034823
+EW,Health Care,Health Care Equipment,49081561088,36.666668,15.167382134834813
+EA,Communication Services,Interactive Home Entertainment,51114188800,59.583088,40.74608838165231
+ELV,Health Care,Managed Health Care,72714584064,13.158924,-10.021352983758689
+EME,Industrials,Construction & Engineering,32064894976,28.824146,56.922033943632314
+EMR,Industrials,Electrical Components & Equipment,83035144192,36.642677,22.92138726113784
+ETR,Utilities,Electric Utilities,43132329984,23.788177,31.70180657867427
+EOG,Energy,Oil & Gas Exploration & Production,59289423872,10.783515,-9.056034616334454
+EPAM,Information Technology,IT Consulting & Other Services,12144154624,33.339447,-4.852509250424317
+EQT,Energy,Oil & Gas Exploration & Production,33955694592,17.723127,16.290733539831372
+EFX,Industrials,Research & Consulting Services,25628749824,39.39962,-16.50606065709557
+EQIX,Real Estate,Data Center REITs,79486541824,74.6129,-12.297212794428141
+EQR,Real Estate,Multi-Family Residential REITs,24459872256,20.44408,-7.5364995939886255
+ERIE,Financials,Insurance Brokers,14248988672,21.975807,-32.08952584703852
+ESS,Real Estate,Multi-Family Residential REITs,17386606592,19.157534,-6.542832281725822
+EL,Consumer Staples,Personal Care Products,41960349696,0.0,60.16981205736131
+EG,Financials,Reinsurance,13598371840,24.10268,-9.81672811638963
+EVRG,Utilities,Electric Utilities,17747208192,21.120546,30.020755138584093
+ES,Utilities,Electric Utilities,26499608576,19.51105,29.08289745012331
+EXC,Utilities,Electric Utilities,45277732864,16.068102,23.36614792748219
+EXE,Energy,Oil & Gas Exploration & Production,25917626368,34.990356,10.897370955920113
+EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",32999892992,25.697495,45.08881247939583
+EXPD,Industrials,Air Freight & Logistics,21495101440,25.752846,45.70945641708683
+EXR,Real Estate,Self-Storage REITs,30977665024,31.27293,-1.0246197190463344
+XOM,Energy,Integrated Oil & Gas,583340130304,19.88808,32.18884923663306
+FFIV,Information Technology,Communications Equipment,15709174784,22.368073,7.420056673597318
+FDS,Financials,Financial Exchanges & Data,10053239808,17.09033,-42.963687683262606
+FICO,Information Technology,Application Software,37085646848,58.14829,-22.592089563567082
+FAST,Industrials,Trading Companies & Distributors,50457124864,40.321102,26.237369528914208
+FRT,Real Estate,Retail REITs,8808387584,25.756346,-2.5256072790604778
+FDX,Industrials,Air Freight & Logistics,73717202944,17.299006,16.60061593188143
+FIS,Financials,Transaction & Payment Processing Services,30329300992,181.43752,-25.859072974450935
+FITB,Financials,Regional Banks,33615306752,14.4022665,24.958098526313265
+FSLR,Information Technology,Semiconductors,25222778880,18.052996,26.052448926385814
+FE,Utilities,Electric Utilities,27450667008,20.66087,24.057863141695403
+FISV,Financials,Transaction & Payment Processing Services,36034789376,10.24575,-67.81726270000863
+F,Consumer Discretionary,Automobile Manufacturers,55504068608,11.905984,55.04858927164762
+FTNT,Information Technology,Systems Software,62611599360,33.625515,-13.762533947786116
+FTV,Industrials,Industrial Machinery & Supplies & Components,17982576640,20.925198,-4.789579013156753
+FOXA,Communication Services,Broadcasting,31950557184,16.173035,48.29662305241099
+FOX,Communication Services,Broadcasting,30562232320,14.5842705,41.792499171988254
+BEN,Financials,Asset Management & Custody Banks,13295462400,28.021976,34.15761192148715
+FCX,Materials,Copper,90276954112,41.361843,68.92194626125382
+GRMN,Consumer Discretionary,Consumer Electronics,39422763008,25.252775,1.745871024049107
+IT,Information Technology,IT Consulting & Other Services,17570703360,20.244328,-51.99668821440528
+GE,Industrials,Aerospace & Defense,313775489024,36.906944,77.45129076624939
+GEHC,Health Care,Health Care Equipment,36671062016,16.6294,2.7047484921155687
+GEV,Industrials,Heavy Electrical Equipment,188569518080,112.26904,104.85332772579119
+GEN,Information Technology,Systems Software,15547412480,27.703295,-6.64173496503047
+GNRC,Industrials,Electrical Components & Equipment,10002698240,32.59082,8.566877037096935
+GD,Industrials,Aerospace & Defense,99031556096,23.760206,43.932717521382955
+GIS,Consumer Staples,Packaged Foods & Meats,23856453632,9.615053,-25.37911277449481
+GM,Consumer Discretionary,Automobile Manufacturers,82240479232,26.415901,69.89394157430566
+GPC,Consumer Discretionary,Distributors,19389220864,23.989674,23.95649448941372
+GILD,Health Care,Biotechnology,174916550656,21.821981,57.717713493397646
+GPN,Financials,Transaction & Payment Processing Services,20653666304,11.192717,-33.29762901230326
+GL,Financials,Life & Health Insurance,11129075712,9.970247,23.67750851382589
+GDDY,Information Technology,Internet Services & Infrastructure,14377930752,17.936096,-47.79045972442279
+GS,Financials,Investment Banking & Brokerage,281445826560,18.116133,64.99884855796779
+HAL,Energy,Oil & Gas Equipment & Services,29210146816,22.839998,27.219230119261834
+HIG,Financials,Property & Casualty Insurance,36343496704,10.663666,21.524599386642006
+HAS,Consumer Discretionary,Leisure Products,12586827776,0.0,65.28343572410891
+HCA,Health Care,Health Care Facilities,118363275264,17.855276,71.16169193453268
+DOC,Real Estate,Health Care REITs,12307560448,0.0,-5.50023108076489
+HSIC,Health Care,Health Care Distributors,9321902080,24.249212,12.137125199749894
+HSY,Consumer Staples,Packaged Foods & Meats,38859714560,28.644245,17.254346785063827
+HPE,Information Technology,"Technology Hardware, Storage & Peripherals",28825915392,0.0,3.317322337751935
+HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",69657337856,42.92319,21.10225285602452
+HOLX,Health Care,Health Care Equipment,16788017152,30.200802,4.822970710206895
+HD,Consumer Discretionary,Home Improvement Retail,378652721152,25.980873,0.35598266425377983
+HON,Industrials,Industrial Conglomerates,148864548864,23.302744,6.200250580972277
+HRL,Consumer Staples,Packaged Foods & Meats,13862703104,28.965517,-15.619388142340757
+HST,Real Estate,Hotel & Resort REITs,12942390272,17.528303,14.445078992634059
+HWM,Industrials,Aerospace & Defense,86750822400,60.542137,95.05642561238508
+HPQ,Information Technology,"Technology Hardware, Storage & Peripherals",18105176064,7.309434,-37.70132894757425
+HUBB,Industrials,Industrial Machinery & Supplies & Components,25729501184,30.296623,16.8055436523749
+HUM,Health Care,Managed Health Care,25008379904,19.45089,-16.550236030390465
+HBAN,Financials,Regional Banks,27448819712,12.539569,11.493669205784181
+HII,Industrials,Aerospace & Defense,16590884864,29.157932,130.6328552337566
+IBM,Information Technology,IT Consulting & Other Services,274681282560,34.983334,37.06129110452777
+IEX,Industrials,Industrial Machinery & Supplies & Components,14669728768,30.879557,-3.657497635515017
+IDXX,Health Care,Health Care Equipment,55583260672,54.964397,69.92784386166748
+ITW,Industrials,Industrial Machinery & Supplies & Components,75408138240,25.066862,6.06030160436345
+INCY,Health Care,Biotechnology,20313509888,17.537289,48.81346618333634
+IR,Industrials,Industrial Machinery & Supplies & Components,34288226304,63.9037,-4.60060950556683
+PODD,Health Care,Health Care Equipment,18647687168,77.45906,3.1380172735310006
+INTC,Information Technology,Semiconductors,219430338560,0.0,117.2601473639111
+IBKR,Financials,Investment Banking & Brokerage,128311287808,34.0,66.30902874786888
+ICE,Financials,Financial Exchanges & Data,99189473280,31.562843,17.34480981663811
+IFF,Materials,Specialty Chemicals,18762776576,0.0,-9.82919026155582
+IP,Materials,Paper & Plastic Packaging Products & Materials,22283216896,0.0,-17.37970216898431
+INTU,Information Technology,Application Software,151839358976,37.458794,-11.685336202361354
+ISRG,Health Care,Health Care Equipment,188214493184,66.62944,0.19272726256238856
+IVZ,Financials,Asset Management & Custody Banks,12112375808,0.0,60.69094684761228
+INVH,Real Estate,Single-Family Residential REITs,16410561536,28.178947,-11.499225699646374
+IQV,Health Care,Life Sciences Tools & Services,41049112576,33.10989,23.534234992864842
+IRM,Real Estate,Other Specialized REITs,27111469056,169.85185,-9.272312099785692
+JBHT,Industrials,Cargo Ground Transportation,19317897216,33.09625,19.88241447589858
+JBL,Information Technology,Electronic Manufacturing Services,25881067520,37.85625,69.919506325726
+JKHY,Financials,Transaction & Payment Processing Services,13004165120,27.156298,4.857228941514737
+J,Industrials,Construction & Engineering,16241323008,53.01163,4.893741267006663
+JNJ,Health Care,Pharmaceuticals,540742189056,20.366606,60.609825754242905
+JCI,Industrials,Building Products,71587258368,44.47148,49.35037251907654
+JPM,Financials,Diversified Banks,817522606080,14.99301,28.354403979230465
+KVUE,Consumer Staples,Personal Care Products,33528334336,23.333334,-14.354289230511883
+KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,37483311104,23.784483,-9.74642831828723
+KEY,Financials,Regional Banks,23657525248,14.118421,32.47219651232052
+KEYS,Information Technology,Electronic Equipment & Instruments,37425205248,43.477047,35.42651845541282
+KMB,Consumer Staples,Household Products,33401722880,20.707819,-19.80377313157567
+KIM,Real Estate,Retail REITs,14180466688,25.228916,-4.386130691148817
+KMI,Energy,Oil & Gas Storage & Transportation,65830658048,21.59854,9.904260049832693
+KKR,Financials,Asset Management & Custody Banks,107406950400,48.739494,-21.80496540345832
+KLAC,Information Technology,Semiconductor Materials & Equipment,212845641728,50.76413,156.0625450530048
+KHC,Consumer Staples,Packaged Foods & Meats,28052637696,0.0,-18.36846859932802
+KR,Consumer Staples,Food Retail,41158942720,54.964603,2.311505661743909
+LHX,Industrials,Aerospace & Defense,67455160320,38.767742,77.20224980827372
+LH,Health Care,Health Care Services,22530072576,26.606478,20.131326830996485
+LRCX,Information Technology,Semiconductor Materials & Equipment,300705775616,52.640175,232.19746851049402
+LW,Consumer Staples,Packaged Foods & Meats,6277829120,16.322464,-30.01356279099316
+LVS,Consumer Discretionary,Casinos & Gaming,41427476480,27.184683,23.535839659118203
+LDOS,Industrials,Diversified Support Services,24010846208,17.490654,31.93212408893073
+LEN,Consumer Discretionary,Homebuilding,27184091136,13.793233,-13.93711968937154
+LII,Industrials,Building Products,17519990784,21.055296,-16.693936412138736
+LLY,Health Care,Pharmaceuticals,931875782656,51.031418,34.597603607154944
+LIN,Materials,Industrial Gases,212430094336,30.30301,10.855448398206853
+LYV,Communication Services,Movies & Entertainment,34088318976,106.376816,13.595920378471824
+LMT,Industrials,Aerospace & Defense,138900045824,33.10796,27.006265191476942
+L,Financials,Multi-line Insurance,21219721216,14.826087,21.881562238953443
+LOW,Consumer Discretionary,Home Improvement Retail,153667059712,22.677153,13.645622702573156
+LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",22103832576,12.9527445,-49.93688039217518
+LYB,Materials,Specialty Chemicals,16232053760,0.0,-23.884013291472748
+MTB,Financials,Regional Banks,33987010560,12.786009,18.73891255460157
+MPC,Energy,Oil & Gas Refining & Marketing,52227649536,18.275532,24.110931410543383
+MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",85224185856,33.117092,15.509097725560189
+MRSH,Financials,Insurance Brokers,88089190400,21.510204,-13.86231925944161
+MLM,Materials,Construction Materials,39154413568,33.329056,27.89892469821482
+MAS,Industrials,Building Products,14062954496,17.179028,-4.460731598006331
+MA,Financials,Transaction & Payment Processing Services,470456762368,33.2318,0.3419186444515656
+MTCH,Communication Services,Interactive Media & Services,7632534016,14.822429,0.14419681872166804
+MKC,Consumer Staples,Packaged Foods & Meats,17021668352,21.641638,-14.24929609579494
+MCD,Consumer Discretionary,Restaurants,224164560896,26.8029,9.896057203022943
+MCK,Health Care,Health Care Distributors,103758970880,26.10892,47.950397577577256
+MDT,Health Care,Health Care Equipment,129146617856,27.287264,28.531273452630384
+MRK,Health Care,Pharmaceuticals,269560774656,14.256274,12.914351051941853
+META,Communication Services,Interactive Media & Services,1696239452160,29.764261,12.658036042798027
+MET,Financials,Life & Health Insurance,51000848384,14.442562,-3.5056033861266878
+MTD,Health Care,Life Sciences Tools & Services,29357340672,35.585022,16.743395166104534
+MGM,Consumer Discretionary,Casinos & Gaming,9156995072,167.4,-0.534760267355201
+MCHP,Information Technology,Semiconductors,40619986944,0.0,36.308333830870176
+MU,Information Technology,Semiconductors,461728907264,39.070477,371.29790035644265
+MSFT,Information Technology,Systems Software,3572231045120,34.132103,15.658924806049534
+MAA,Real Estate,Multi-Family Residential REITs,16171830272,28.544493,-6.879807855065313
+MRNA,Health Care,Biotechnology,17758842880,0.0,8.214287530808221
+MOH,Health Care,Managed Health Care,9979303936,11.337439,-35.90029195901525
+TAP,Consumer Staples,Brewers,9583246336,0.0,-12.127202008205197
+MDLZ,Consumer Staples,Packaged Foods & Meats,76368658432,22.104868,2.326931994101287
+MPWR,Information Technology,Semiconductors,52481638400,28.089487,85.88795337646154
+MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,79539298304,46.255684,55.629901595981494
+MCO,Financials,Financial Exchanges & Data,93063815168,41.676304,10.571572722118553
+MS,Financials,Investment Banking & Brokerage,290303246336,17.890305,50.4846076365482
+MOS,Materials,Fertilizers & Agricultural Chemicals,9027080192,7.367876,20.335924500959933
+MSI,Information Technology,Communications Equipment,67654504448,32.564552,-10.607610831971375
+MSCI,Financials,Financial Exchanges & Data,45007224832,36.889664,-1.3389036450623863
+NDAQ,Financials,Financial Exchanges & Data,56518832128,35.178574,28.780594462269416
+NTAP,Information Technology,"Technology Hardware, Storage & Peripherals",19939880960,17.40244,-11.652371089972016
+NFLX,Communication Services,Movies & Entertainment,362630119424,33.826088,-3.488090863388206
+NEM,Materials,Gold,139503108096,19.751167,236.59948889732775
+NWSA,Communication Services,Publishing,15597916160,32.108433,-2.2559118199462294
+NWS,Communication Services,Publishing,17144651776,37.156628,2.193711345640368
+NEE,Utilities,Multi-Utilities,181499428864,26.489363,25.49714962603845
+NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",93397385216,36.894737,-12.349569863455681
+NI,Utilities,Multi-Utilities,21006792704,23.363157,25.537854610015152
+NDSN,Industrials,Industrial Machinery & Supplies & Components,15255450624,32.15059,35.28001578370761
+NSC,Industrials,Rail Transportation,64841003008,22.025152,25.80898203871273
+NTRS,Financials,Asset Management & Custody Banks,28360042496,17.157896,49.61013413760484
+NOC,Industrials,Aerospace & Defense,97184014336,23.364544,47.54513384271818
+NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",9496672256,15.0071945,-19.52160282040348
+NRG,Utilities,Independent Power Producers & Energy Traders,30182940672,23.324364,70.52830281496082
+NUE,Materials,Steel,39725285376,23.082447,54.096064493175064
+NVDA,Information Technology,Semiconductors,4589896597504,46.779156,36.339802059302755
+NVR,Consumer Discretionary,Homebuilding,20722616320,16.501486,-6.134381858910445
+NXPI,Information Technology,Semiconductors,57840128000,28.323456,13.345908334917711
+ORLY,Consumer Discretionary,Automotive Retail,85127774208,34.9375,27.076482545232544
+OXY,Energy,Oil & Gas Exploration & Production,43891122176,32.75735,-8.590472929907763
+ODFL,Industrials,Cargo Ground Transportation,36661731328,35.098595,-0.019668806680642685
+OMC,Communication Services,Advertising,24761976832,11.508849,-6.338605301150535
+ON,Information Technology,Semiconductors,25614041088,85.79452,1.4908475081699801
+OKE,Energy,Oil & Gas Storage & Transportation,48957227008,14.290441,-19.59165381837052
+ORCL,Information Technology,Application Software,502510419968,32.87594,6.671407929995576
+OTIS,Industrials,Industrial Machinery & Supplies & Components,35538632704,26.710915,-0.07471304432165708
+PCAR,Industrials,Construction Machinery & Heavy Transportation Equipment,63449935872,26.787138,19.872896095396815
+PKG,Materials,Paper & Plastic Packaging Products & Materials,20121055232,22.565086,1.7898849116601243
+PLTR,Information Technology,Application Software,394935369728,385.34882,120.37503865938587
+PANW,Information Technology,Systems Software,127899500544,116.13924,1.5270523530775957
+PSKY,Communication Services,Movies & Entertainment,12741579776,385.0,10.816903021954845
+PH,Industrials,Industrial Machinery & Supplies & Components,117176008704,32.99964,48.52559552078264
+PAYX,Industrials,Human Resource & Employment Services,37670047744,23.74208,-21.855022665669026
+PAYC,Industrials,Human Resource & Employment Services,7999124992,17.663355,-28.893508640388514
+PYPL,Financials,Transaction & Payment Processing Services,53033054208,11.146586,-35.43940086596558
+PNR,Industrials,Industrial Machinery & Supplies & Components,17639004160,27.379133,8.530997561787194
+PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,203691311104,28.231499,3.006098104647718
+PFE,Health Care,Pharmaceuticals,150671261696,15.406977,8.581155114015578
+PCG,Utilities,Multi-Utilities,33342302208,12.747899,-23.576232464267445
+PM,Consumer Staples,Tobacco,278451552256,25.517832,52.931475347517875
+PSX,Energy,Oil & Gas Refining & Marketing,56581435392,37.738544,26.968599342151826
+PNW,Utilities,Multi-Utilities,11341862912,19.538145,16.997883552827908
+PNC,Financials,Diversified Banks,90445012992,13.4759035,22.138340278892652
+POOL,Consumer Discretionary,Distributors,9869120512,24.085611,-19.24866945378999
+PPG,Materials,Specialty Chemicals,24890195968,15.959479,-1.928434167417008
+PPL,Utilities,Electric Utilities,27163224064,24.979591,17.807561145561657
+PFG,Financials,Life & Health Insurance,20545935360,13.52346,23.80192054836411
+PG,Consumer Staples,Personal Care Products,346631045120,21.976295,-7.615252742574333
+PGR,Financials,Property & Casualty Insurance,121976496128,11.414153,-6.164463353978201
+PLD,Real Estate,Industrial REITs,119545184256,37.41279,27.838710555039683
+PRU,Financials,Life & Health Insurance,37805711360,14.715068,-4.457307345447833
+PEG,Utilities,Electric Utilities,40141963264,19.331732,-2.4514184778167603
+PTC,Information Technology,Application Software,19664769024,27.121912,-10.043161671881746
+PSA,Real Estate,Self-Storage REITs,48726077440,28.807055,-2.4211049050378572
+PHM,Consumer Discretionary,Homebuilding,24441223168,9.558641,16.00712195123345
+PWR,Industrials,Construction & Engineering,71466770432,70.89793,52.08203105821452
+QCOM,Information Technology,Semiconductors,163905830912,30.607998,1.839215214021555
+DGX,Health Care,Health Care Services,20602351616,21.649824,24.920884373448104
+Q,Information Technology,Semiconductor Materials & Equipment,20831115264,38.103447,
+RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",21696620544,26.463757,56.46614489322418
+RJF,Financials,Investment Banking & Brokerage,33376364544,16.425657,10.4875492607877
+RTX,Industrials,Aerospace & Defense,269870579712,40.66263,76.7370370070151
+O,Real Estate,Retail REITs,55931002880,56.934574,22.525453485698378
+REG,Real Estate,Retail REITs,13117191168,32.701836,2.7952819962880215
+REGN,Health Care,Biotechnology,81742815232,18.486338,8.436559580483863
+RF,Financials,Regional Banks,24438548480,12.117392,25.023814313298566
+RSG,Industrials,Environmental & Facilities Services,67810152448,32.271915,9.687829149858223
+RMD,Health Care,Health Care Equipment,37294387200,26.178278,12.822290241995452
+RVTY,Health Care,Health Care Equipment,13303077888,59.077316,2.680666502574405
+HOOD,Financials,Investment Banking & Brokerage,94630633472,43.85,166.8357036719074
+ROK,Industrials,Electrical Components & Equipment,47193829376,54.65495,51.8774818561286
+ROL,Industrials,Environmental & Facilities Services,30548250624,59.33645,39.576695793500406
+ROP,Information Technology,Electronic Equipment & Instruments,39747272704,25.968353,-27.53677510883492
+ROST,Consumer Discretionary,Apparel Retail,60492087296,29.0625,23.239780649961986
+RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",79244926976,19.567675,28.510314323550862
+SPGI,Financials,Financial Exchanges & Data,160792346624,38.303272,7.07653251885807
+CRM,Information Technology,Application Software,217560563712,30.470667,-30.435518906033572
+SNDK,Information Technology,"Technology Hardware, Storage & Peripherals",70555099136,0.0,
+SBAC,Real Estate,Telecom Tower REITs,19904901120,23.46608,-4.867280914034899
+SLB,Energy,Oil & Gas Equipment & Services,75736702976,21.557447,36.1037548860252
+STX,Information Technology,"Technology Hardware, Storage & Peripherals",80996114432,42.00678,338.6781388835898
+SRE,Utilities,Multi-Utilities,56855089152,26.803078,3.249866028256418
+NOW,Information Technology,Systems Software,139067850752,79.87879,-37.496440703660674
+SHW,Materials,Specialty Chemicals,86289268736,33.796875,4.803367577904211
+SPG,Real Estate,Retail REITs,69617328128,26.86463,11.749165275960381
+SWKS,Information Technology,Semiconductors,9003311104,19.496754,-29.252527593171134
+SJM,Consumer Staples,Packaged Foods & Meats,11229578240,0.0,-1.648389410360645
+SW,Materials,Paper & Plastic Packaging Products & Materials,22433124352,29.424656,-17.64810839084722
+SNA,Industrials,Industrial Machinery & Supplies & Components,19186731008,19.308138,12.753303111680228
+SOLV,Health Care,Health Care Technology,13461264384,8.910448,17.715759519356247
+SO,Utilities,Electric Utilities,97822154752,22.099503,11.8714897959517
+LUV,Industrials,Passenger Airlines,21711259648,65.61905,26.58882982258811
+SWK,Industrials,Industrial Machinery & Supplies & Components,12554974208,27.951723,6.213205443310116
+SBUX,Consumer Discretionary,Restaurants,108843212800,58.723927,6.6087650195921945
+STT,Financials,Asset Management & Custody Banks,35645853696,13.562168,34.19142238787986
+STLD,Materials,Steel,25856485376,21.98373,59.20356987589784
+STE,Health Care,Health Care Equipment,25909925888,37.743187,30.919023424181425
+SYK,Health Care,Health Care Equipment,135595958272,46.531498,-0.24277859049323824
+SMCI,Information Technology,"Technology Hardware, Storage & Peripherals",18625499136,24.56693,3.8269602498379225
+SYF,Financials,Consumer Finance,27160199168,7.8663797,13.866817469520495
+SNPS,Information Technology,Application Software,96175669248,62.138443,4.132576324605127
+SYY,Consumer Staples,Food Distributors,40186019840,22.619946,14.721312063572324
+TMUS,Communication Services,Wireless Telecommunication Services,207628566528,17.756496,-14.650213209689808
+TROW,Financials,Asset Management & Custody Banks,23138211840,11.484187,-2.2334560066941846
+TTWO,Communication Services,Interactive Home Entertainment,45366898688,0.0,34.11263147962989
+TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",26401482752,97.35878,97.46875710226938
+TRGP,Energy,Oil & Gas Storage & Transportation,41971019776,26.321188,8.90402876561431
+TGT,Consumer Staples,Consumer Staples Merchandise Retail,47302950912,12.602905,-20.77221425501432
+TEL,Information Technology,Electronic Manufacturing Services,67892994048,33.205757,66.09038421941275
+TDY,Information Technology,Electronic Equipment & Instruments,28922748928,32.680107,34.50512733171387
+TER,Information Technology,Semiconductor Materials & Equipment,38009032704,86.887276,89.61805622617956
+TSLA,Consumer Discretionary,Automobile Manufacturers,1433095503872,293.12924,13.609996647153858
+TXN,Information Technology,Semiconductors,178763644928,36.0789,8.592664502624155
+TPL,Energy,Oil & Gas Exploration & Production,23797479424,50.028988,-11.703910634148809
+TXT,Industrials,Aerospace & Defense,16792285184,20.619255,24.455835760294253
+TMO,Health Care,Life Sciences Tools & Services,234408001536,36.1059,19.81481353417529
+TJX,Consumer Discretionary,Apparel Retail,164726063104,32.673286,23.685242692548293
+TKO,Communication Services,Movies & Entertainment,16360847360,75.73764,41.317296297430964
+TTD,Communication Services,Advertising,15739070464,36.579544,-72.6577782138378
+TSCO,Consumer Discretionary,Other Specialty Retail,29447931904,26.922707,8.188820874458761
+TT,Industrials,Building Products,87292772352,30.038282,5.697972948972463
+TDG,Industrials,Aerospace & Defense,80567648256,44.44659,21.625257862263318
+TRV,Financials,Property & Casualty Insurance,62741045248,10.25784,18.667027260382802
+TRMB,Information Technology,Electronic Equipment & Instruments,16660216832,47.952057,0.4303587085036066
+TFC,Financials,Diversified Banks,65100845056,13.32199,23.25138444652627
+TYL,Information Technology,Application Software,18436454400,59.188892,-25.842654682603268
+TSN,Consumer Staples,Packaged Foods & Meats,23213488128,49.43609,17.09188754701415
+USB,Financials,Diversified Banks,87904149504,12.23593,23.327353522656647
+UBER,Industrials,Passenger Ground Transportation,169419407360,41.876286,28.605350987183538
+UDR,Real Estate,Multi-Family Residential REITs,13967742976,84.31818,-7.818201653720387
+ULTA,Consumer Discretionary,Other Specialty Retail,29203226624,25.001919,51.7615766230063
+UNP,Industrials,Rail Transportation,137939566592,19.41152,3.9189586882441536
+UAL,Industrials,Passenger Airlines,33681700864,10.2,9.022320635877215
+UPS,Industrials,Air Freight & Logistics,90946936832,16.341463,-7.509318238787044
+URI,Industrials,Trading Companies & Distributors,58386444288,23.3638,32.724516700076194
+UNH,Health Care,Managed Health Care,256080576512,14.723958,-42.585484496957626
+UHS,Health Care,Health Care Facilities,12895744000,9.644931,13.249779430864262
+VLO,Energy,Oil & Gas Refining & Marketing,56821313536,38.027027,53.204014937250555
+VTR,Real Estate,Health Care REITs,35676209152,143.3019,34.723844632015805
+VLTO,Industrials,Environmental & Facilities Services,24968779776,27.550684,0.42766676081649313
+VRSN,Information Technology,Internet Services & Infrastructure,23317587968,29.060535,22.773225035100843
+VRSK,Industrials,Research & Consulting Services,30217553920,33.222733,-20.351195620534757
+VZ,Communication Services,Integrated Telecommunication Services,165789843456,8.383795,6.332516647496041
+VRTX,Health Care,Biotechnology,121572761600,33.321857,16.859720528305473
+VTRS,Health Care,Pharmaceuticals,15146609664,0.0,11.003181958723292
+VICI,Real Estate,Hotel & Resort REITs,30461124608,10.836501,4.063040347928699
+V,Financials,Transaction & Payment Processing Services,627718356992,31.857004,4.188989543386972
+VST,Utilities,Electric Utilities,55655477248,59.08633,10.356621386211572
+VMC,Materials,Construction Materials,39463538688,35.220524,17.73128921153283
+WRB,Financials,Property & Casualty Insurance,25548824576,15.107866,18.99119655345699
+GWW,Industrials,Industrial Machinery & Supplies & Components,50585468928,29.673403,2.4305030491391486
+WAB,Industrials,Construction Machinery & Heavy Transportation Equipment,39614197760,33.680233,23.24308628370204
+WMT,Consumer Staples,Consumer Staples Merchandise Retail,932345217024,40.745647,31.17706553752561
+DIS,Communication Services,Movies & Entertainment,197470797824,16.147446,0.9143273905568066
+WBD,Communication Services,Broadcasting,69599191040,147.73685,163.32082642232564
+WM,Industrials,Environmental & Facilities Services,93199261696,36.488956,17.075471916663126
+WAT,Health Care,Life Sciences Tools & Services,23228954624,35.85386,5.927873239931503
+WEC,Utilities,Electric Utilities,35896217600,20.93928,21.403657353800906
+WFC,Financials,Diversified Banks,278468198400,14.170926,29.13190495318948
+WELL,Real Estate,Health Care REITs,125934338048,126.54483,49.70252333857563
+WST,Health Care,Health Care Supplies,17304547328,35.58136,-26.516791141835682
+WDC,Information Technology,"Technology Hardware, Storage & Peripherals",86610714624,35.585915,442.34927303192836
+WY,Real Estate,Timber REITs,18925232128,57.021736,-3.1753757548981474
+WSM,Consumer Discretionary,Homefurnishing Retail,24861032448,22.935022,13.08018038313893
+WMB,Energy,Oil & Gas Storage & Transportation,79965413376,33.927464,21.232451064195846
+WTW,Financials,Insurance Brokers,30661285888,15.039235,2.7788177984841687
+WDAY,Information Technology,Application Software,50350862336,79.23529,-25.119121436914565
+WYNN,Consumer Discretionary,Casinos & Gaming,11829408768,25.226162,37.0841172906472
+XEL,Utilities,Multi-Utilities,45152231424,23.271341,18.86619102254694
+XYL,Industrials,Industrial Machinery & Supplies & Components,34185490432,36.188145,22.542362058425525
+YUM,Consumer Discretionary,Restaurants,42761310208,30.02144,17.54386496126416
+ZBRA,Information Technology,Electronic Equipment & Instruments,12129618944,24.048388,-37.83614981032279
+ZBH,Health Care,Health Care Equipment,17041631232,21.337467,-16.86826442174928
+ZTS,Health Care,Pharmaceuticals,55380209664,21.037037,-21.799843014878256
