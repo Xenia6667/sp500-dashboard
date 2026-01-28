@@ -6,3 +6,7 @@ Created on Wed Jan 28 17:26:10 2026
 @author: aditi
 """
 
+streamlit
+pandas
+yfinance
+plotly
